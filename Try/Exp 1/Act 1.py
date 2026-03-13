@@ -1,18 +1,17 @@
-# code for receipt
-"""
-Created on Mon Feb 16 15:04:57 2026
+num1=int(input("Enter Number1:"))
+num2=int(input("Enter Number2:"))
 
-@author: Varad
-"""
+sum=num1+num2
+print("Addition=",sum)
 
-copies = int(input("Enter number of receipt copies"))
-items = int(input("Enter number of  items in each receipt:"))
+sub=num1-num2
+print("Substraction=",sub)
 
-for copy in range(1, copies + 1):
-    print("\nReceipt copy:", copy)
-    print("-----------------------------")
-    for item in range(1, items + 1):
-        print("Item number:", item)
-        
-        print("-----------------------")
-        print("\nAll RECEIPTS PRINTED SUCESSFULLY!")
+mul=num1*num2
+print("Multiplication=",mul)
+
+div=num1/num2
+print("Division=",div)
+
+mod=num1%num2
+print("Modulus=",mod)
