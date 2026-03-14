@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 16 14:55:16 2026
 
-@author: Varad
+@author: Pratima
 """
 
 def simple_intrest(principal,rate,time):
