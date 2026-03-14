@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  9 15:12:59 2026
 
-@author: Varad
+@author: Pratima
 """
 
 # Initial dictionary
