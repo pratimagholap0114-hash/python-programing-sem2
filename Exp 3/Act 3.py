@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 16 15:55:31 2026
 
-@author: Varad
+@author: Pratima
 """
 principal=float(input("enter principal amount:"))
 monthlyintrest=float(input("enter monthly intrest:"))
