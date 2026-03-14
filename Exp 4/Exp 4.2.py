@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  2 15:28:08 2026
 
-@author: varad
+@author: Pratima
 
 """
 # Take input from the user
