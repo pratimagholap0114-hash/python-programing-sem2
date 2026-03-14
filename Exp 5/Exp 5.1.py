@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  9 14:54:32 2026
 
-@author: Varad
+@author: Pratima
 """
 student = {}
 # Adding key-value pairs
