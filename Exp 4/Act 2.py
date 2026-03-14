@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  9 15:43:43 2026
 
-@author: Varad
+@author: Pratima
 """
 prices = [19.99, 5.50, 10.00, 2.75]
 tax_rate = 0.05
