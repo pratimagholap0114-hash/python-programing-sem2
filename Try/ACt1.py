@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*- comment
+# Program for addition of two numbers
 """
 Created on Mon Feb  9 10:30:56 2026
 
-@author: User
+@author: Pratima
 """
 
 num1=int(input("Enter Number 1:"))
