@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  9 15:34:08 2026
 
-@author: Varad
+@author: pratima
 """
 
 # Roll numbers present in Class A and Class B
