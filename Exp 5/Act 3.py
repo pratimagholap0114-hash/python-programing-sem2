@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  9 15:37:01 2026
 
-@author: Varad
+@author: Pratima
 """
 
 inventory = {"Apples": 50, "Bananas": 20}
