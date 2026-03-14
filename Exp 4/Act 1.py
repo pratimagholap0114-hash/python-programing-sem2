@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  2 15:34:18 2026
 
-@author: varad
+@author: Pratima
 """
 
 marks =  [85, 56, 78, 56, 90 ]
