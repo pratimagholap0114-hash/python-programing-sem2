@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 16 15:44:56 2026
 
-@author: Varad
+@author: Pratima
 """
 rows = int(input("Enter number of rows:"))
 seats_per_rows = int(input("Enter number of seats in each rows:"))
